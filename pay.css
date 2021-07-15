@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background: url('https://thumbs.dreamstime.com/b/money-tree-children-girl-hands-day-light-125028206.jpg')no-repeat center center/cover;
+    background: url('https://th.bing.com/th/id/OIP.Q-DxnC9gYcJilvVyVN9k3wHaFj?w=247&h=185&c=7&o=5&dpr=1.25&pid=1.7')no-repeat center center/cover;
+}
+
+nav{
+    font-family: 'Lobster Two';
+    background: rgb(8, 8, 8,.5);
+    /* color: aqua; */
+}
+nav a{
+    color: rgb(13, 223, 223);
+}
+ul a{
+   color: rgb(13, 223, 223);
+    padding: 1rem;
+    text-decoration: none;
+  
+}
+ul a:hover{
+ color: rgb(16, 17, 16);
+  background: rgb(11, 230, 238);
+}
+.logo{
+    width: 3rem;
+    height: 3rem;
+    /* border-radius: 42px; */
+   
+}
+
+.con{
+    /* border: 2px solid red; */
+    height: 41rem;
+    /* background: rgb(0, 255, 255); */
+   /* justify-content: center; */
+
+    justify-content: center;
+   align-items: center;
+}
+
+
+.para{
+    
+    background: rgb(8, 8, 8,.5);
+    /* background: rgb(8, 8, 8); */
+    margin-left: 5rem;
+    color:rgb(7, 229, 245);
+    height: 31rem;
+    width: 40%;
+    /* border: 2px solid blue; */
+    font-family: 'Great Vibes', cursive;
+}
+footer{
+    color: aqua;
+    font-family: 'Lobster Two';
+}
+.card-body{
+    background-color: aqua;
+    height: 10rem;
+    text-align: center;
+  
+}
+.containerx{
+    margin: 8rem auto;
+    font-family: 'Lobster Two';
+    width: 45%;
+    height: 30rem;
+}
